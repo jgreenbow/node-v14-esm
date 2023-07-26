@@ -19,6 +19,9 @@ For `Windows`:
  ./vcbuild x64 release package full-icu
 ```
 
+For using with docker our latest version(14.21.4) here is the [image](https://hub.docker.com/r/meteor/node)
+
+---
 
 Node.js is an open-source, cross-platform, JavaScript runtime environment. It
 executes JavaScript code outside of a browser. For more information on using
